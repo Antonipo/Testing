@@ -1,0 +1,29 @@
+div {
+    display: block;
+    text-align: center;
+}
+
+.cabezera h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: Fantasy;
+    
+}
+.entrada h3 {
+    display: inline-block;
+    color:#2f3640;
+    
+}
+.salida div{
+    display: inline-block;
+}
+
+.entrada{
+    text-align: center;
+    
+}
+
+.datos{
+    padding:10% 33.3333%; 
+    
+}
